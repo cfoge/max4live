@@ -3,11 +3,19 @@
 #### To download click on the green button that says <> CODE, and then select download Zip
 
 ## Midi Tools
-
+![midi](https://github.com/cfoge/max4live/blob/main/Midi%20Tools/tools%20free.JPG)
+- RandomCC: Generates random midi control change with random value
+- RandomPB: Generates random midi pitch-bend value
+- RandomPC: Generates random midi program change with random value
+- midiMUTE: Mutes midi without hung notes
 ## Audio Tools
+![audio](https://github.com/cfoge/max4live/blob/main/Audio%20Tools/audio_tools.JPG)
+- Sterio ring mod: creates a ring mod between left and right channels (for some amazing crunchy goodness)
+- LR2ms: takes in Left/Right audio and outputs it as MID/SIDE
+- ms2LR: takes in MID/SIDE audio and outputs it as Left/Right
 
 ## Video Tools
-### FREE Version Visca PTZ Camera Controler:
+### Visca PTZ Camera Controler:
 A free max for live plugin that allows you to control PTZ cameras that use the VISCA protocol directly from Ableton Live.
 
 ![visca](https://github.com/cfoge/MAX4LIVE_V8_V4/blob/main/images/vesda.JPG)
