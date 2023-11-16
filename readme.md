@@ -14,7 +14,7 @@ A free max for live plugin that allows you to control Edirol V1 mixers directly 
 ![simple](https://github.com/cfoge/max4live/blob/main/Video%20Tools/v1.png)
 
 ## Pro Versions:
-[Download on Etsy]([https://github.com/cfoge/OPEN_SPECTRE-.git](https://www.etsy.com/au/listing/1578389148/max4live-video-mixer-plugin-v8v4v4exv1))
+[Download on Etsy](https://www.etsy.com/au/listing/1578389148/max4live-video-mixer-plugin-v8v4v4exv1)
 
 ### Visca PTZ Camera Controler:
 A free max for live plugin that allows you to control PTZ cameras that use the VISCA protocol directly from Ableton Live.
